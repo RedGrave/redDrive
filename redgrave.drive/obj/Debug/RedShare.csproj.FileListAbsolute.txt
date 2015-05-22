@@ -1,0 +1,5 @@
+c:\users\redgrave\documents\visual studio 2013\Projects\redgrave.drive\redgrave.drive\obj\Debug\RedShare.csprojResolveAssemblyReference.cache
+c:\users\redgrave\documents\visual studio 2013\Projects\redgrave.drive\redgrave.drive\bin\Debug\redgrave.drive.dll
+c:\users\redgrave\documents\visual studio 2013\Projects\redgrave.drive\redgrave.drive\bin\Debug\redgrave.drive.pdb
+c:\users\redgrave\documents\visual studio 2013\Projects\redgrave.drive\redgrave.drive\obj\Debug\redgrave.drive.dll
+c:\users\redgrave\documents\visual studio 2013\Projects\redgrave.drive\redgrave.drive\obj\Debug\redgrave.drive.pdb
